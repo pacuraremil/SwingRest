@@ -1,8 +1,8 @@
 {
   "name": "SwingRest Firmware",
-  "version": "2.9.3",
+  "version": "2.9.4",
   "url": "https://raw.githubusercontent.com/pacuraremil/SwingRest/main/swingrest.bin",
   "notes": "Adds STRENGTH (slow/medium/fast ramp rate). Fixes: VERSION blocked by auth, winch servo free-run at boot.",
   "min_hardware": "esp32-s3",
-  "released": "2026-06-01"
+  "released": "2026-08-31"
 }
