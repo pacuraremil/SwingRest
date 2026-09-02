@@ -1,8 +1,8 @@
 {
   "name": "SwingRest Firmware",
-  "version": "2.10.4",
+  "version": "2.10.6",
   "url": "https://raw.githubusercontent.com/pacuraremil/SwingRest/main/swingrest.bin",
-  "notes": "rescale levels to the real GENTLE range",
+  "notes": "FOLLOW + GENTLE ASSIST + ASYMMETRIC follow",
   "min_hardware": "esp32-s3",
   "released": "2026-09-01"
 }
